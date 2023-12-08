@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "777206521362",
+    "project_id": "pmtupdated",
+    "storage_bucket": "pmtupdated.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777206521362:android:368d566c54ec636bad02cb",
+        "android_client_info": {
+          "package_name": "com.example.pmt_updated"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVqW5kNtV5qYBOyxvMZND9coijEcEkaL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
